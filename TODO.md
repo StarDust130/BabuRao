@@ -1,5 +1,5 @@
 🧩 Team Roles
-👨‍🎨 Frontend Developer
+👨‍🎨 Frontend Developer (@Soap1-4)
 
 Focus: UI/UX, pages, components, animations
 Tasks:
@@ -18,7 +18,7 @@ Frontend AI Prompt Example (for V0/Vibe):
 
 
 --------------------------------------------------------------------------------------------------------------------------
-⚙️ Backend Developer
+⚙️ Backend Developer (@Archiviste-ken)
 
 Focus: Logic, APIs, and database
 Tasks:
