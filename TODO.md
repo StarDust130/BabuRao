@@ -27,9 +27,9 @@ Setup MongoDB with Mongoose models: User, Habit, DailyLog
 
 Build API routes in /app/api/habits
 
-POST /api/habits → add habit
+POST /api/habits → add habit ( Create )
 
-GET /api/habits → list habits
+GET /api/habits → list habits (Read)
 
 PATCH /api/habits/:id → mark complete/incomplete
 
